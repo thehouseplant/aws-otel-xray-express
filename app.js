@@ -1,5 +1,6 @@
 'use strict';
 
+require('./tracing');
 const express = require('express');
 
 // Initialize Express
